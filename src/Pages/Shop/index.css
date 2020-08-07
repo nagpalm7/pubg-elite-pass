@@ -1,0 +1,12 @@
+.shop{
+    margin: 48px;
+}
+
+.images{
+    width: 100%;
+    height: auto;
+}
+
+.selected{
+    background-color: blanchedalmond!important;
+}
